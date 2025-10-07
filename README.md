@@ -89,13 +89,13 @@ const jyBhavsar = {
 </details>
 
 <details>
-<summary>🤖 AI/ML Projects</summary>
+<summary>🤖 Cybersecurity Projects</summary>
 
 - **Machine Learning**: ML models and experiments
 - **Deep Learning**: Neural network projects
 - **Data Analysis**: Statistical analysis projects
 
-[🔗 View All Cybersecurity](https://github.com/JYbhavsar12?tab=repositories&q=ml+OR+ai+OR+machine+learning&type=&language=&sort=)
+[🔗 View All Cybersecurity](https://github.com/JYbhavsar12)
 
 </details>
 
