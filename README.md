@@ -47,7 +47,7 @@ const jyBhavsar = {
 
 <div align="center">
   <a href="https://github.com/JYbhavsar12?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JYbhavsar12&repo=your-best-repo&theme=tokyonight" />
+    <img src="https://github.com/Jybhavsar12/nakul.git&theme=tokyonight" />
   </a>
   <a href="https://github.com/JYbhavsar12?tab=repositories&sort=updated">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JYbhavsar12&repo=another-cool-repo&theme=tokyonight" />
