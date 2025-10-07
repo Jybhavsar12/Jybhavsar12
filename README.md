@@ -12,9 +12,9 @@
 ```javascript
 const jyBhavsar = {
     pronouns: "He/Him",
-    location: "India 🇮🇳",
+    location: "Canada 🇨🇦",
     currentFocus: "Full Stack Development",
-    learning: ["Cloud Computing", "DevOps", "AI/ML"],
+    learning: ["Cybersecurity", "DevOps", "AI/ML"],
     askMeAbout: ["Web Dev", "Tech", "Open Source"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
@@ -23,7 +23,7 @@ const jyBhavsar = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mongodb,mysql,git,docker,aws,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mysql,git,docker,aws,linux,vscode&perline=7" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -37,10 +37,6 @@ const jyBhavsar = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JYbhavsar12&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JYbhavsar12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 ## 📈 Contribution Graph
 <div align="center">
@@ -67,7 +63,7 @@ const jyBhavsar = {
 - **Backend APIs**: Node.js, Express, REST APIs
 - **Full Stack**: Complete web applications
 
-[🔗 View All Web Projects](https://github.com/JYbhavsar12?tab=repositories&q=web&type=&language=&sort=)
+[🔗 View All Web Projects](https://github.com/JYbhavsar12)
 
 </details>
 
@@ -78,7 +74,7 @@ const jyBhavsar = {
 - **Automation**: Scripts and tools
 - **Web Scraping**: Data collection projects
 
-[🔗 View All Python Projects](https://github.com/JYbhavsar12?tab=repositories&q=&type=&language=python&sort=)
+[🔗 View All Python Projects](https://github.com/JYbhavsar12)
 
 </details>
 
@@ -88,7 +84,7 @@ const jyBhavsar = {
 - **React Native**: Cross-platform mobile apps
 - **Flutter**: Mobile applications
 
-[🔗 View All Mobile Projects](https://github.com/JYbhavsar12?tab=repositories&q=mobile&type=&language=&sort=)
+[🔗 View All Mobile Projects](https://github.com/JYbhavsar12)
 
 </details>
 
@@ -99,17 +95,17 @@ const jyBhavsar = {
 - **Deep Learning**: Neural network projects
 - **Data Analysis**: Statistical analysis projects
 
-[🔗 View All AI/ML Projects](https://github.com/JYbhavsar12?tab=repositories&q=ml+OR+ai+OR+machine+learning&type=&language=&sort=)
+[🔗 View All Cybersecurity](https://github.com/JYbhavsar12?tab=repositories&q=ml+OR+ai+OR+machine+learning&type=&language=&sort=)
 
 </details>
 
 ## 🎮 When I'm Coding
 
 ```text
-🌅 Morning    ████████░░░░░░░░░░░░░   35.2%
+🌅 Morning    █░░░░░░░░░░░░░░░░░░░░   00.2%
 🌆 Daytime    ██████████████░░░░░░░   60.8%
-🌃 Evening    ██████░░░░░░░░░░░░░░░   25.3%
-🌙 Night      ████░░░░░░░░░░░░░░░░░   18.7%
+🌃 Evening    ░░░░░░░░░░░░░░░░░░░░░   00.0%
+🌙 Night      ███████████░░░░░░░░░░   39.0%
 ```
 
 ## 🤝 Let's Connect!
@@ -118,22 +114,8 @@ const jyBhavsar = {
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jyotbhavsar2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/jybhavsar12">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
 
