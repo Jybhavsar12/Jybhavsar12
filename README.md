@@ -23,7 +23,7 @@ const jyBhavsar = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mysql,git,docker,aws,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mysql,git,docker,linux,vscode&perline=7" />
 </div>
 
 ## 📊 GitHub Analytics
