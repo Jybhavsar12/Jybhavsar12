@@ -111,7 +111,7 @@ const jyBhavsar = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/jyot-bhavsar-5221b922b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jyotbhavsar2003@gmail.com">
