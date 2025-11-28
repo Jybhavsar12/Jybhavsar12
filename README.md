@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions and securing digital environments.
 
 ### 🌟 Featured Portfolio
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jybhavsar12.vercel.app)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-jybhavsar12.vercel.app](https://portfolio-beta-plum-31.vercel.app/))
 
 **🎯 Professional Portfolio Website**
 - **Modern Design**: Responsive, mobile-first approach with smooth animations
