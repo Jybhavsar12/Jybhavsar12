@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions and securing digital environments.
 
 ### 🌟 Featured Portfolio
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-jybhavsar12.vercel.app](https://portfolio-beta-plum-31.vercel.app/))
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)]([[https://jyot-portfolio.vercel.app](https://portfolio-beta-plum-31.vercel.app/)](https://portfolio-beta-plum-31.vercel.app/))
 
 **🎯 Professional Portfolio Website**
 - **Modern Design**: Responsive, mobile-first approach with smooth animations
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 - **Performance Optimized**: 95+ Lighthouse score across all categories
 - **Tech Stack**: HTML5, CSS3, JavaScript (ES6+), EmailJS, GitHub API
 
-[**🔗 View Live Portfolio**](https://portfolio-jybhavsar12.vercel.app) | [**📁 Source Code**](https://github.com/Jybhavsar12/Portfolio-)
+[**🔗 View Live Portfolio**](https://jyot-portfolio.vercel.app) | [**📁 Source Code**](https://github.com/Jybhavsar12/Jyot-Portfolio)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 ### 🏆 Featured Projects
 
-- **🌐 [Professional Portfolio](https://github.com/Jybhavsar12/Portfolio-)** - Modern responsive portfolio with dynamic GitHub integration
+- **🌐 [Professional Portfolio](https://github.com/Jybhavsar12/Jyot-Portfolio)** - Modern responsive portfolio with dynamic GitHub integration
 - **🔐 Security Tools** - Penetration testing and network security utilities
 - **💻 Web Applications** - Full-stack projects using modern frameworks
 - **🤖 Automation Scripts** - Python and JavaScript automation tools
