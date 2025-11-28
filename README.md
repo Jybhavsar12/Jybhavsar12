@@ -1,4 +1,80 @@
+# Hi there, I'm Jyot Harshadkumar Bhavsar! 👋
+
+## 🚀 Full Stack Developer & Cybersecurity Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about creating innovative solutions and securing digital environments.
+
+### 🌟 Featured Portfolio
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jybhavsar12.vercel.app)
+
+**🎯 Professional Portfolio Website**
+- **Modern Design**: Responsive, mobile-first approach with smooth animations
+- **Dynamic Content**: Real-time GitHub API integration showcasing my projects
+- **Contact Integration**: Secure EmailJS-powered contact form
+- **Performance Optimized**: 95+ Lighthouse score across all categories
+- **Tech Stack**: HTML5, CSS3, JavaScript (ES6+), EmailJS, GitHub API
+
+[**🔗 View Live Portfolio**](https://portfolio-jybhavsar12.vercel.app) | [**📁 Source Code**](https://github.com/Jybhavsar12/Portfolio-)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+
+**Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Cybersecurity**
+![Security](https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=flat&logo=security&logoColor=white)
+![Network](https://img.shields.io/badge/Network_Security-4ECDC4?style=flat&logo=shield&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-45B7D1?style=flat&logo=hackaday&logoColor=white)
+
+### 📊 GitHub Stats
+
 <div align="center">
+  
+![Jyot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00f5ff&text_color=ffffff)
+
+</div>
+
+### 🏆 Featured Projects
+
+- **🌐 [Professional Portfolio](https://github.com/Jybhavsar12/Portfolio-)** - Modern responsive portfolio with dynamic GitHub integration
+- **🔐 Security Tools** - Penetration testing and network security utilities
+- **💻 Web Applications** - Full-stack projects using modern frameworks
+- **🤖 Automation Scripts** - Python and JavaScript automation tools
+
+### 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00f5ff&line=ff00ff&point=ffffff)
+
+### 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jybhavsar12.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jyotbhavsar2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profilee)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jybhavsar12)
+
+---
+
+<div align="center">
+  
+**💡 "Building secure, innovative solutions one commit at a time"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jybhavsar12&color=00f5ff&style=flat-square&label=Profile+Views)
+
+</div><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+JY+Bhavsar!+%F0%9F%91%8B;Cyber+Security+Learning+Analyst;Always+Learning+New+Tech!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
