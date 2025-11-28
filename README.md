@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-jybhavsar12.vercel.app])
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jybhavsar12.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jyotbhavsar2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profilee)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jybhavsar12)
