@@ -57,19 +57,6 @@
 ## Performance Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=21262d"/>
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&langs_count=8&theme=github_dark&border_radius=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&theme=github-dark-blue&border_radius=8&background=0d1117&border=21262d&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak" />
 </div>
 
