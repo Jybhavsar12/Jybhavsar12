@@ -83,6 +83,19 @@
 
 ---
 
+## 🤝 Open Source Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jybhavsar12&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+
+### Recent Contributions
+- **Repository Name**: Brief description of contribution
+- **Repository Name**: Brief description of contribution
+- **Repository Name**: Brief description of contribution
+
+---
+
 ## Project Categories
 
 <div align="center">
