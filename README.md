@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&theme=github-dark-blue&border_radius=8&background=0d1117&border=21262d&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Jybhavsar12&theme=radical&border_radius=15&background=0d1117&border=ff6b6b&stroke=4ecdc4&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ced6e0&sideLabels=ced6e0&currStreakNum=4ecdc4&sideNums=4ecdc4&dates=a4b0be" />
 </div>
 
 ---
