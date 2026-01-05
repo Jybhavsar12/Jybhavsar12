@@ -42,16 +42,16 @@
 ```bash
 jyot@kali:~$ whoami
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  > Location     : Canada 🇨🇦
+  > Location     : Canada
   > Role         : Full Stack Developer & Security Researcher
-  > Speciality   : Breaking things legally 🔓
+  > Speciality   : Breaking things legally
   > Status       : Always learning, always hacking
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## ⚡ ARSENAL
+## ARSENAL
 
 <div align="center">
 
@@ -59,7 +59,7 @@ jyot@kali:~$ whoami
 
 <br/><br/>
 
-| 🗡️ OFFENSIVE | 🛡️ DEFENSIVE | 🔧 DEV TOOLS |
+| OFFENSIVE | DEFENSIVE | DEV TOOLS |
 |:---:|:---:|:---:|
 | Penetration Testing | Network Security | JavaScript/TypeScript |
 | Vulnerability Assessment | Security Auditing | Python/Java |
@@ -70,7 +70,7 @@ jyot@kali:~$ whoami
 
 ---
 
-## 📊 SYSTEM METRICS
+## SYSTEM METRICS
 
 <div align="center">
 
@@ -89,7 +89,7 @@ jyot@kali:~$ whoami
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
@@ -99,7 +99,7 @@ jyot@kali:~$ whoami
 
 ---
 
-## 💀 RECENT OPERATIONS
+## RECENT OPERATIONS
 
 ```javascript
 const currentMission = {
@@ -127,14 +127,14 @@ const currentMission = {
 
 ---
 
-## 🔗 SECURE CHANNELS
+## SECURE CHANNELS
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-beta-plum-31.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_ENCRYPTED_MAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:Jyotbhavsar2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/jyot-bhavsar-5221b922b)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Jybhavsar12)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-beta-plum-31.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:Jyotbhavsar2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/jyot-bhavsar-5221b922b)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Jybhavsar12)
 
 </div>
 
