@@ -117,7 +117,7 @@ jyot@kali:~$ whoami
 
 <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&theme=dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&background=0D0D0D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Jybhavsar12&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
