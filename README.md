@@ -106,31 +106,28 @@ jyot@kali:~$ whoami
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/Jybhavsar12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
 
 <br/><br/>
 
-<!-- GitHub Streak Stats - Using streak-stats.demolab.com (more reliable) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jybhavsar12&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681" />
-  <img src="https://streak-stats.demolab.com/?user=Jybhavsar12&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681" alt="GitHub Streak" />
-</picture>
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Jybhavsar12">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Jybhavsar12&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Contribution Graph" />
+<!-- Contribution Graph using ghchart (always works) -->
+<img src="https://ghchart.rshah.org/00ff41/Jybhavsar12" alt="GitHub Contribution Chart"/>
 
 <br/><br/>
 
 <!-- Most Used Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</picture>
+<a href="https://github.com/Jybhavsar12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
