@@ -9,9 +9,9 @@
 <br/>
 
 <!-- BADGES -->
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d)
-![](https://komarev.com/ghpvc/?username=Jybhavsar12&color=00ff41&style=for-the-badge&label=TARGETS+SCANNED)
-![](https://img.shields.io/github/followers/Jybhavsar12?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)
+![](https://img.shields.io/badge/STATUS-ONLINE-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCI+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjUiIGZpbGw9IiMwMGZmNDEiLz48L3N2Zz4=)
+![](https://komarev.com/ghpvc/?username=Jybhavsar12&color=0d0d0d&style=for-the-badge&label=TARGETS+SCANNED)
+![](https://img.shields.io/github/followers/Jybhavsar12?style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS)
 
 </div>
 
@@ -93,11 +93,9 @@ jyot@kali:~$ whoami
 
 <div align="center">
 
-| METRIC | STATUS |
-|:------:|:------:|
-| Public Repos | [![Repos](https://img.shields.io/badge/dynamic/json?color=00ff41&labelColor=0d1117&label=REPOS&query=%24.public_repos&url=https://api.github.com/users/Jybhavsar12&style=for-the-badge)](https://github.com/Jybhavsar12?tab=repositories) |
-| Followers | [![Followers](https://img.shields.io/github/followers/Jybhavsar12?color=00ff41&labelColor=0d1117&style=for-the-badge&label=FOLLOWERS)](https://github.com/Jybhavsar12?tab=followers) |
-| Stars Earned | [![Stars](https://img.shields.io/github/stars/Jybhavsar12?color=00ff41&labelColor=0d1117&style=for-the-badge&label=STARS)](https://github.com/Jybhavsar12) |
+[![Repos](https://img.shields.io/badge/dynamic/json?color=0d0d0d&labelColor=0d0d0d&label=REPOS&query=%24.public_repos&url=https://api.github.com/users/Jybhavsar12&style=for-the-badge)](https://github.com/Jybhavsar12?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Jybhavsar12?color=0d0d0d&labelColor=0d0d0d&style=for-the-badge&label=FOLLOWERS)](https://github.com/Jybhavsar12?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Jybhavsar12?color=0d0d0d&labelColor=0d0d0d&style=for-the-badge&label=STARS)](https://github.com/Jybhavsar12)
 
 </div>
 
@@ -145,10 +143,10 @@ const currentMission = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-beta-plum-31.vercel.app/)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:Jyotbhavsar2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/jyot-bhavsar-5221b922b)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Jybhavsar12)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-beta-plum-31.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:Jyotbhavsar2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jyot-bhavsar-5221b922b)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Jybhavsar12)
 
 </div>
 
