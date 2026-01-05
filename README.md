@@ -74,25 +74,30 @@ jyot@kali:~$ whoami
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8"/>
-</picture>
+```
++------------------------------------------------------------------+
+|                        SKILL PROFICIENCY                         |
++------------------------------------------------------------------+
+|  JavaScript/TypeScript  ████████████████████████████████░░  95%  |
+|  Python                 ██████████████████████████████░░░░  90%  |
+|  React/Node.js          ████████████████████████████░░░░░░  85%  |
+|  Cybersecurity          ██████████████████████████████░░░░  90%  |
+|  Docker/DevOps          ██████████████████████░░░░░░░░░░░░  70%  |
+|  Cloud (AWS)            ████████████████████░░░░░░░░░░░░░░  65%  |
++------------------------------------------------------------------+
+```
 
-<br/><br/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
-</picture>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY%20HEATMAP" />
+| METRIC | STATUS |
+|:------:|:------:|
+| Public Repos | [![Repos](https://img.shields.io/badge/dynamic/json?color=00ff41&labelColor=0d1117&label=REPOS&query=%24.public_repos&url=https://api.github.com/users/Jybhavsar12&style=for-the-badge)](https://github.com/Jybhavsar12?tab=repositories) |
+| Followers | [![Followers](https://img.shields.io/github/followers/Jybhavsar12?color=00ff41&labelColor=0d1117&style=for-the-badge&label=FOLLOWERS)](https://github.com/Jybhavsar12?tab=followers) |
+| Stars Earned | [![Stars](https://img.shields.io/github/stars/Jybhavsar12?color=00ff41&labelColor=0d1117&style=for-the-badge&label=STARS)](https://github.com/Jybhavsar12) |
 
 </div>
 
