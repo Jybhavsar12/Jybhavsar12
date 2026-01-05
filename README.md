@@ -1,186 +1,156 @@
-# Jyot Harshadkumar Bhavsar
-
-## Full Stack Developer & Cybersecurity Specialist
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Specialist;Always+Learning+New+Technologies;Welcome+to+my+GitHub" alt="Typing SVG" />
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=JYOT%20BHAVSAR&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=root@cybersec:~$%20./hack_the_planet&descSize=18&descAlignY=55&descAlign=50"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%96%88%E2%96%88%E2%96%88+SYSTEM+BREACH+DETECTED+%E2%96%88%E2%96%88%E2%96%88;%3E+Full+Stack+Developer+%7C+Security+Researcher" alt="Typing SVG" />
+
+<br/>
+
+<!-- BADGES -->
+![](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![](https://komarev.com/ghpvc/?username=Jybhavsar12&color=00ff41&style=for-the-badge&label=TARGETS+SCANNED)
+![](https://img.shields.io/github/followers/Jybhavsar12?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)
+
 </div>
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jybhavsar12&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Jybhavsar12?label=Followers&style=flat-square&color=0891b2" alt="GitHub Followers" />
-</div>
-
----
-
-## Professional Portfolio
-
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beta-plum-31.vercel.app/)
-
-**Enterprise-Grade Portfolio Application**
-- **Architecture**: Responsive, mobile-first design with optimized performance
-- **Integration**: Real-time GitHub API integration with dynamic content rendering
-- **Communication**: Secure EmailJS-powered contact system
-- **Performance**: 95+ Lighthouse score across all metrics
-- **Technology Stack**: HTML5, CSS3, JavaScript ES6+, EmailJS, GitHub API
-
-[**View Live Application**](https://portfolio-beta-plum-31.vercel.app/) | [**Source Repository**](https://github.com/Jybhavsar12/Jyot-Portfolio)
-
----
-
-## Technical Expertise
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mongodb,mysql,git,docker,linux,vscode,aws&perline=7" />
-</div>
-
-### Core Technologies
-
-**Frontend Development**
-- JavaScript (ES6+), TypeScript, React.js, Vue.js
-- HTML5, CSS3, Responsive Design, Progressive Web Apps
-
-**Backend Development**
-- Node.js, Express.js, Python, Java
-- RESTful APIs, GraphQL, Microservices Architecture
-
-**Database Systems**
-- MongoDB, MySQL, PostgreSQL, Redis
-
-**Cybersecurity**
-- Penetration Testing, Network Security Analysis
-- Vulnerability Assessment, Ethical Hacking
-- Security Auditing, Risk Assessment
-
----
-
-## Performance Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=21262d"/>
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&langs_count=8&theme=github_dark&border_radius=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=21262d"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jybhavsar12&theme=radical&border_radius=15&background=0d1117&border=ff6b6b&stroke=4ecdc4&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ced6e0&sideLabels=ced6e0&currStreakNum=4ecdc4&sideNums=4ecdc4&dates=a4b0be" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## Development Activity
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗███╗   ██╗██╗████████╗██╗ █████╗ ██╗     ██╗███████╗██╗███╗   ██╗ ██████╗║
+║   ██║████╗  ██║██║╚══██╔══╝██║██╔══██╗██║     ██║╚══███╔╝██║████╗  ██║██╔════╝║
+║   ██║██╔██╗ ██║██║   ██║   ██║███████║██║     ██║  ███╔╝ ██║██╔██╗ ██║██║  ███║
+║   ██║██║╚██╗██║██║   ██║   ██║██╔══██║██║     ██║ ███╔╝  ██║██║╚██╗██║██║   ██║
+║   ██║██║ ╚████║██║   ██║   ██║██║  ██║███████╗██║███████╗██║██║ ╚████║╚██████╔╝
+║   ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+jyot@kali:~$ whoami
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  > Location     : Canada 🇨🇦
+  > Role         : Full Stack Developer & Security Researcher
+  > Speciality   : Breaking things legally 🔓
+  > Status       : Always learning, always hacking
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## ⚡ ARSENAL
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&radius=8" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,express,mongodb,mysql,docker,linux,aws,kali,bash&theme=dark&perline=7" />
+
+<br/><br/>
+
+| 🗡️ OFFENSIVE | 🛡️ DEFENSIVE | 🔧 DEV TOOLS |
+|:---:|:---:|:---:|
+| Penetration Testing | Network Security | JavaScript/TypeScript |
+| Vulnerability Assessment | Security Auditing | Python/Java |
+| Ethical Hacking | Risk Assessment | React/Node.js |
+| Web App Security | Incident Response | Docker/AWS |
+
 </div>
 
 ---
 
-## 🤝 Open Source Contributions
+## 📊 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jybhavsar12&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
 
-### Recent Contributions
-- **Repository Name**: Brief description of contribution
-- **Repository Name**: Brief description of contribution
-- **Repository Name**: Brief description of contribution
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
----
+<br/>
 
-## Project Categories
+<img src="https://streak-stats.demolab.com/?user=Jybhavsar12&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Web Development</h3>
-        <ul align="left">
-          <li><strong>Frontend Applications</strong>: React, Vue.js, Angular</li>
-          <li><strong>Backend Services</strong>: Node.js, Express, REST APIs</li>
-          <li><strong>Full Stack Solutions</strong>: End-to-end applications</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>Cybersecurity</h3>
-        <ul align="left">
-          <li><strong>Security Tools</strong>: Penetration testing utilities</li>
-          <li><strong>Network Analysis</strong>: Security assessment tools</li>
-          <li><strong>Automation Scripts</strong>: Security workflow automation</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Python Development</h3>
-        <ul align="left">
-          <li><strong>Data Analysis</strong>: Statistical analysis and visualization</li>
-          <li><strong>Automation</strong>: Process automation scripts</li>
-          <li><strong>Web Scraping</strong>: Data collection frameworks</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>DevOps & Infrastructure</h3>
-        <ul align="left">
-          <li><strong>Containerization</strong>: Docker, Kubernetes</li>
-          <li><strong>CI/CD Pipelines</strong>: Automated deployment</li>
-          <li><strong>Cloud Services</strong>: AWS, Azure integration</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY%20HEATMAP" />
+
 </div>
 
 ---
 
-## Development Workflow
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jybhavsar12&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 💀 RECENT OPERATIONS
 
 ```javascript
-const developerProfile = {
-    name: "Jyot Bhavsar",
-    location: "Canada",
-    role: "Full Stack Developer",
-    specialization: "Cybersecurity",
-    currentFocus: ["Web Development", "Security Analysis", "DevOps"],
-    technologies: ["JavaScript", "Python", "React", "Node.js"],
-    methodology: "Agile Development",
-    philosophy: "Clean Code, Secure Architecture"
+const currentMission = {
+    codename: "PROJECT_PHOENIX",
+    objective: "Building secure, scalable systems",
+    status: "IN_PROGRESS",
+    threat_level: "CLASSIFIED",
+
+    loadout: {
+        primary: ["React", "Node.js", "TypeScript"],
+        secondary: ["Python", "Docker", "AWS"],
+        special: ["Penetration Testing", "Security Audits"]
+    },
+
+    execute: function() {
+        while(true) {
+            this.learn();
+            this.build();
+            this.secure();
+            this.repeat();
+        }
+    }
 };
 ```
 
 ---
 
-## Professional Network
+## 🔗 SECURE CHANNELS
 
 <div align="center">
-  <a href="https://portfolio-beta-plum-31.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:Jyotbhavsar2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jyot-bhavsar-5221b922b">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jybhavsar12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://portfolio-beta-plum-31.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_ENCRYPTED_MAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:Jyotbhavsar2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/jyot-bhavsar-5221b922b)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Jybhavsar12)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_radius=8" />
-</div>
 
-<div align="center">
-  <strong>Building secure, scalable solutions through innovative technology</strong>
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  "The quieter you become, the more you are able to hear."        │
+│                                          — Kali Linux            │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=120&section=footer&animation=twinkling"/>
+
 </div>
