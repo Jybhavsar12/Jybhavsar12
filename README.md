@@ -101,6 +101,32 @@ jyot@kali:~$ whoami
 
 ---
 
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="GitHub Stats" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jybhavsar12&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Contribution Graph" />
+
+<br/><br/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
 ## ACHIEVEMENTS UNLOCKED
 
 <div align="center">
