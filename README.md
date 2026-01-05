@@ -109,25 +109,24 @@ jyot@kali:~$ whoami
 <a href="https://github.com/Jybhavsar12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jybhavsar12&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
+<a href="https://github.com/Jybhavsar12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/Jybhavsar12">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Jybhavsar12&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jybhavsar12&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Contribution Graph using ghchart (always works) -->
-<img src="https://ghchart.rshah.org/00ff41/Jybhavsar12" alt="GitHub Contribution Chart"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133" alt="GitHub Activity Graph"/>
 
-<br/><br/>
+<br/>
 
-<!-- Most Used Languages -->
-<a href="https://github.com/Jybhavsar12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jybhavsar12&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
+<!-- Alternative Contribution Chart -->
+<img src="https://ghchart.rshah.org/00ff41/Jybhavsar12" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
