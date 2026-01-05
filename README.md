@@ -116,7 +116,7 @@ jyot@kali:~$ whoami
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jybhavsar12&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Jybhavsar12&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak"/>
 
 <br/><br/>
 
