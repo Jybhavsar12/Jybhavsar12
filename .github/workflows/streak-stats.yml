@@ -16,28 +16,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: Jybhavsar12
-          theme: highcontrast
-          hide_border: true
-          background: 0D0D0D
-          stroke: 00FF41
-          ring: 00FF41
-          fire: 00FF41
-          currStreakNum: FFFFFF
-          sideNums: FFFFFF  
-          currStreakLabel: 00FF41
-          sideLabels: 00FF41
-          dates: 888888
-          output_path: streak-stats.svg
+        run: |
+          mkdir -p output
+          curl -o output/streak-stats.svg "https://streak-stats.demolab.com/?user=Jybhavsar12&theme=highcontrast&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888"
 
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          mkdir -p output
-          mv streak-stats.svg output/
           git add output/
           git diff --staged --quiet || git commit -m "Update streak stats"
           git push
