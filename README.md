@@ -101,7 +101,7 @@ A web-based course registration system built with Spring Boot, Spring MVC, and T
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jybhavsar12&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb33" alt="GitHub Activity Graph"/>
+<img src="https://ghchart.rshah.org/1f6feb/Jybhavsar12" alt="Contribution Chart" width="100%"/>
 
 <br/><br/>
 
